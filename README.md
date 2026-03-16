@@ -1,5 +1,6 @@
 
-# Secure Fintech Payment Gateway (Java + JDBC + PostgreSQL)
+# Secure Fintech Payment Gateway 
+
 
 ## Project Overview
 This project implements a simple secure fintech payment gateway simulation using Java, JDBC, and PostgreSQL. It allows users to register, login, and perform payment transactions securely.
